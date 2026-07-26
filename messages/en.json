@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Our Services",
+    "events": "Events",
+    "news": "News",
+    "members": "Our Members",
+    "partners": "Partners",
+    "contact": "Contact",
+    "joinUs": "Membership Request"
+  },
+  "footer": {
+    "tagline": "The chamber building business bridges between Morocco and Africa, based in Dakhla.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Stay informed on our events, partnerships and business opportunities.",
+    "emailPlaceholder": "Your email",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "hero": {
+    "eyebrow": "African Chamber of Commerce and Services",
+    "titleLine1": "Building Business Bridges",
+    "titleLine2": "Between Morocco and Africa",
+    "subtitle": "From Dakhla, CACS builds business ties between its members and erects commercial bridges between the Kingdom and the rest of the continent.",
+    "ctaJoin": "Membership Request",
+    "ctaServices": "Discover Our Services"
+  },
+  "stats": {
+    "diplomatic": "Diplomatic Representations",
+    "investment": "Billion $ Invested in 5 Years",
+    "antennas": "Antennas Across Africa",
+    "founded": "Year Founded"
+  },
+  "about": {
+    "eyebrow": "Who We Are",
+    "title": "A Value-Creation Platform",
+    "titleHighlight": "at the Heart of Africa",
+    "description": "The African Chamber of Commerce and Services facilitates the establishment of businesses across the continent and connects their interests with the exceptionally fertile ground of Morocco's Southern Provinces.",
+    "point1": "Based in Dakhla, a business hub between Morocco and Africa",
+    "point2": "24+ diplomatic representations in its ecosystem",
+    "point3": "5 active antennas across the African continent",
+    "cta": "Learn More"
+  },
+  "pageHeader": {
+    "home": "Home"
+  },
+  "servicesSection": {
+    "eyebrow": "Our Services",
+    "title": "What We Offer",
+    "description": "From prospecting to market entry, CACS supports members at every stage of their growth across Africa.",
+    "viewAll": "View All Services"
+  },
+  "africaMap": {
+    "eyebrow": "Coming Soon",
+    "title": "Explore Africa,",
+    "titleHighlight": "Country by Country",
+    "description": "An interactive map is on its way — click any country to discover our antennas, partners and local opportunities.",
+    "badge": "Launching with country-level data"
+  },
+  "eventsSection": {
+    "eyebrow": "Calendar",
+    "title": "Our Events",
+    "viewAll": "View All Events"
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Trusted by Our Members"
+  },
+  "partnersSection": {
+    "eyebrow": "Our Network",
+    "title": "Our Members",
+    "viewAll": "View All Members"
+  },
+  "cta": {
+    "title": "Ready to Grow Your Business in Africa?",
+    "description": "Join a network of businesses and institutions shaping the future of trade between Morocco and Africa.",
+    "join": "Membership Request",
+    "contact": "Contact Our Team"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "backHome": "Back to Home"
+  }
+}

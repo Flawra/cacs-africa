@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Nos services",
+    "events": "Nos évènements",
+    "news": "Actualités",
+    "members": "Nos adhérents",
+    "partners": "Partenaires",
+    "contact": "Contact",
+    "joinUs": "Demande d'adhésion"
+  },
+  "footer": {
+    "tagline": "La chambre qui tisse des liens d'affaires entre le Maroc et l'Afrique, basée à Dakhla.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Restez informés de nos évènements, partenariats et opportunités d'affaires.",
+    "emailPlaceholder": "Votre email",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "hero": {
+    "eyebrow": "Chambre Africaine de Commerce et de Services",
+    "titleLine1": "Bâtir des ponts d'affaires",
+    "titleLine2": "entre le Maroc et l'Afrique",
+    "subtitle": "Depuis Dakhla, la CACS tisse des liens d'affaires entre ses membres et érige des ponts commerciaux entre le Royaume et le reste du continent.",
+    "ctaJoin": "Demande d'adhésion",
+    "ctaServices": "Découvrir nos services"
+  },
+  "stats": {
+    "diplomatic": "Représentations diplomatiques",
+    "investment": "Milliards $ investis en 5 ans",
+    "antennas": "Antennes en Afrique",
+    "founded": "Année de création"
+  },
+  "about": {
+    "eyebrow": "Qui sommes-nous",
+    "title": "Une plateforme de création de valeur",
+    "titleHighlight": "au cœur de l'Afrique",
+    "description": "La Chambre Africaine de Commerce et de Services facilite l'implantation des entreprises du continent et fertilise leurs intérêts dans le terreau exceptionnellement fécond des Provinces du Sud du Maroc.",
+    "point1": "Basée à Dakhla, hub d'affaires entre le Maroc et l'Afrique",
+    "point2": "24+ représentations diplomatiques dans son écosystème",
+    "point3": "5 antennes actives à travers le continent africain",
+    "cta": "En savoir plus"
+  },
+  "pageHeader": {
+    "home": "Accueil"
+  },
+  "servicesSection": {
+    "eyebrow": "Nos services",
+    "title": "Qu'est-ce que nous offrons ?",
+    "description": "De la prospection à l'implantation, la CACS accompagne ses membres à chaque étape de leur développement en Afrique.",
+    "viewAll": "Voir tous nos services"
+  },
+  "africaMap": {
+    "eyebrow": "Bientôt disponible",
+    "title": "Explorez l'Afrique,",
+    "titleHighlight": "pays par pays",
+    "description": "Une carte interactive est en préparation — cliquez sur un pays pour découvrir nos antennes, partenaires et opportunités locales.",
+    "badge": "Lancement prévu avec données par pays"
+  },
+  "eventsSection": {
+    "eyebrow": "Agenda",
+    "title": "Nos évènements",
+    "viewAll": "Voir tous les évènements"
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "Ils nous font confiance"
+  },
+  "partnersSection": {
+    "eyebrow": "Notre réseau",
+    "title": "Nos adhérents",
+    "viewAll": "Voir tous nos adhérents"
+  },
+  "cta": {
+    "title": "Prêt à développer votre activité en Afrique ?",
+    "description": "Rejoignez un réseau d'entreprises et d'institutions qui façonnent l'avenir du commerce entre le Maroc et l'Afrique.",
+    "join": "Demande d'adhésion",
+    "contact": "Contacter notre équipe"
+  },
+  "common": {
+    "readMore": "Lire plus",
+    "learnMore": "En savoir plus",
+    "viewDetails": "Voir les détails",
+    "backHome": "Retour à l'accueil"
+  }
+}
